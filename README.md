@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Engineering Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- [Self-Driving Robot Car](https://github.com/micahodge/Self-Driving-Robot-Car)
 
 <h2>🤳 Certifications:</h2>
 
