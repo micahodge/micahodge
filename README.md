@@ -7,7 +7,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Florida Bright Futures Scholarship](https://www.floridastudentfinancialaidsg.org/SAPFARH/GetCorrespondenceLetter?refno=18776013&lettercode=BFIE002/)
+- [Florida Bright Futures Scholarship](https://www.floridastudentfinancialaidsg.org/SAPFARH/GetCorrespondenceLetter?refno=18776013&lettercode=BFIE002)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
