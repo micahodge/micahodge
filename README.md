@@ -1,4 +1,4 @@
-<h1>Hi, I'm Micah! <br/> <a href="https://www.linkedin.com/in/micah-hodge-920b372aa/">Engineering Student</a>
+<h1>Hi, I'm Micah! <br/> <a href="https://www.linkedin.com/in/micahhodge/">Engineering Student at the University of West Florida</a>
 
 <h2>Engineering Projects:</h2>
 
