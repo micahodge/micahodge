@@ -1,11 +1,10 @@
 <h1>Hi, I'm Micah! <br/> <a href="https://www.linkedin.com/in/micah-hodge-920b372aa/">Engineering Student</a>
 
-<h2>👨‍💻 Engineering Projects:</h2>
-
+<h2>Engineering Projects:</h2>
 
 - [Self-Driving Robot Car](https://github.com/micahodge/Self-Driving-Robot-Car)
 
-<h2>🤳 Certifications:</h2>
+<h2>Certifications:</h2>
 
 - [Tripoli Rocketry Association - High-Powered Rocketry Level 1 Certificate](https://i.imgur.com/uybQdkm.jpeg)
 - [Florida Bright Futures Scholarship](https://i.imgur.com/WdvmCv2.jpeg)
