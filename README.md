@@ -4,6 +4,7 @@
 
 - [Self-Driving Robot Car](https://github.com/micahodge/Self-Driving-Robot-Car)
 - [Thermostat-Simulation](https://github.com/micahodge/Thermostat-Simulation)
+- [3-D Printed Racecar](https://github.com/micahodge/3-D-Printed-Small-Racecar)
 
 <h2>Certifications:</h2>
 
