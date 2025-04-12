@@ -3,6 +3,7 @@
 <h2>Engineering Projects:</h2>
 
 - [Self-Driving Robot Car](https://github.com/micahodge/Self-Driving-Robot-Car)
+- [Thermostat-Simulation](https://github.com/micahodge/Thermostat-Simulation)
 
 <h2>Certifications:</h2>
 
