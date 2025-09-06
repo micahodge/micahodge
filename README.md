@@ -10,6 +10,7 @@
 
 <h2>Certifications:</h2>
 
+- [Certified SOLIDWORKS Associate - Dassault Systèmes](https://i.imgur.com/abrR9TI.png)
 - [Tripoli Rocketry Association - High-Powered Rocketry Level 1 Certificate](https://i.imgur.com/uybQdkm.jpeg)
 - [Florida Bright Futures Scholarship](https://i.imgur.com/WdvmCv2.jpeg)
 - [Fall 2024 President's List Certificate](https://i.imgur.com/8z81hhr.jpeg)
