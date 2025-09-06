@@ -2,6 +2,7 @@
 
 <h2>Engineering Projects:</h2>
 
+- [Remote-Controlled Drone 🚁](https://github.com/micahodge/Remote-Controlled-Drone)
 - [Level 1 Rocket 🚀](https://github.com/micahodge/Level-1-Rocket)
 - [Self-Driving Robot Car 🚗](https://github.com/micahodge/Self-Driving-Robot-Car)
 - [Thermostat-Simulation 🌡️](https://github.com/micahodge/Thermostat-Simulation)
