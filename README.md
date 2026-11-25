@@ -2,6 +2,7 @@
 
 <h2>Engineering Projects:</h2>
 
+- [ROS2 Robotic Arm (Paused)](https://github.com/micahodge/Robotic-Arm)
 - [Remote-Controlled Drone](https://github.com/micahodge/Remote-Controlled-Drone)
 - [Level 1 Rocket](https://github.com/micahodge/Level-1-Rocket)
 - [Self-Driving Robot Car](https://github.com/micahodge/Self-Driving-Robot-Car)
