@@ -1,7 +1,8 @@
 <h1>Hi, I'm Micah! <br/> <a href="https://www.linkedin.com/in/micah-hodge/">Engineering Student at the University of West Florida</a>
 
-<h2>Engineering Projects:</h2>
+<h2>Engineering/Personal Projects:</h2>
 
+- [3D-Printing Business](https://github.com/micahodge/3D-Printing-Business)
 - [ROS2 Robotic Arm (Paused)](https://github.com/micahodge/Robotic-Arm)
 - [Remote-Controlled Drone](https://github.com/micahodge/Remote-Controlled-Drone)
 - [Level 1 Rocket](https://github.com/micahodge/Level-1-Rocket)
