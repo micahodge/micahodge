@@ -2,6 +2,7 @@
 
 <h2>Engineering/Personal Projects:</h2>
 
+- [Team Co-Lead of UWF NASA HERC Rover Team](https://github.com/micahodge/UWF-NASA-HERC-Rover-Team-Co-Lead)
 - [3D-Printing Business](https://github.com/micahodge/3D-Printing-Business)
 - [ROS2 Robotic Arm (Paused)](https://github.com/micahodge/Robotic-Arm)
 - [Remote-Controlled Drone](https://github.com/micahodge/Remote-Controlled-Drone)
